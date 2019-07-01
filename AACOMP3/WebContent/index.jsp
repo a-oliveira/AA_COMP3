@@ -12,7 +12,7 @@
 			<h2>SISTEMA DE APOIO À GESTÃO DE MUSEUS (SAGM)</h2>
 		</header>
 		<section>
-			<div class='texto'>Área de identificação do usuário</div>
+			<div class='texto'><p>Área de identificação do usuário</p></div>
 			<form action="index" method="post">
 				<label>CPF:</label>
 				<div><input type="text" name="cpf"></div>

@@ -1,4 +1,4 @@
-package exception;
+package dominio.exception;
 
 public class CpfInvalidoException extends Exception{
 

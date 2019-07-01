@@ -1,4 +1,4 @@
-package mock_object;
+package mockobject;
 import java.util.ArrayList;
 import java.util.Date;
 
@@ -10,7 +10,7 @@ public class SolicitacaoFinderMock {
 	{
 		ArrayList<SolicitacaoMuseuMD> solicitacoes = new ArrayList<SolicitacaoMuseuMD>();
 		
-		SolicitacaoMuseuMD sol1 = new SolicitacaoMuseuMD("Andressa", "data1", "NI", "RJ", "Dudu", "14610164795", "ai.123");
+		SolicitacaoMuseuMD sol1 = new SolicitacaoMuseuMD("Andressa", "data1", "NI", "RJ", "Dudu", "14610164795", "ai1234");
 		SolicitacaoMuseuMD sol2 = new SolicitacaoMuseuMD("Mayara", "data2", "NI", "SP", "Rex", "11111111111", "socor.ro");
 		
 		solicitacoes.add(sol1);

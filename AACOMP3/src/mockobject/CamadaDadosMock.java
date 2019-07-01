@@ -1,4 +1,4 @@
-package mock_object;
+package mockobject;
 import java.util.ArrayList;
 import dominio.*;
 

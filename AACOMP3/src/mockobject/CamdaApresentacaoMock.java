@@ -1,4 +1,4 @@
-package mock_object;
+package mockobject;
 import java.util.ArrayList;
 import java.util.Date;
 import dominio.*;
@@ -16,7 +16,7 @@ public class CamdaApresentacaoMock {
 	{
 		Date data 			   = new Date(28062019);
 		SolicitacaoMuseuMD sol = new SolicitacaoMuseuMD();
-		sol.checarCpf();
+		//sol.checarCpf();
 	}
 
 	public static void main(String[] args) {

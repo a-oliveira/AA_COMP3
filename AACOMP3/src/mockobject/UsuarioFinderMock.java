@@ -1,4 +1,4 @@
-package mock_object;
+package mockobject;
 import java.util.ArrayList;
 
 import dominio.Administrador;
@@ -10,11 +10,13 @@ public class UsuarioFinderMock {
 	public static ArrayList <Usuario> buscarTodos()
 	{
 		ArrayList <Usuario> usuarios = new ArrayList();
-		Usuario u1 = new Gestor("Joao Mock", "1234567890", "senhamock");
-		Usuario u2 = new Administrador("Zezinho Mock", "0987654321", "outrasenhamock");
+		Usuario u1 = new Administrador("Dudu", "14610164795", "ai1234");
+		Usuario u2 = new Gestor("Rex", "11111111111", "socor.ro");
+		Usuario u3 = new Gestor("Zezinho Mock", "0987654321", "outrasenhamock");
 		
 		usuarios.add(u1);
 		usuarios.add(u2);
+		usuarios.add(u3);
 		
 		return usuarios;
 	}
