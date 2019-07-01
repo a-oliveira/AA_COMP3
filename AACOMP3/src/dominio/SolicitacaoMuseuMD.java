@@ -72,7 +72,7 @@ public class SolicitacaoMuseuMD extends HttpServlet
 					throw new GestorException();
 				}
 
-				else if(user.getCpf() == this.cpfGestor)
+				else
 				{
 					throw new UsuarioAssociadoException();
 				}
