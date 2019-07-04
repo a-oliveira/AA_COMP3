@@ -30,11 +30,13 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 #### Organização dos pacotes do projeto  
 
 - src
+	- apresentacao
 	- dados
 	- dominio
 		- exception
 	- testes
 	- mockObjets
+	- util
 
 #### DSS's
 
