@@ -4,23 +4,8 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 
 #### Colaboradores
 
-(Clique no link para visitar o perfil)
-
 + [Andressa Oliveira](https://github.com/a-oliveira)
 + [Mayara Marques](https://github.com/mmrosatab)
-
-
-
-#### Índice
-
-* [Especificações das máquinas](#especificações-das-máquinas)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Organização dos pacotes do projeto](#organização-dos-pacotes-do-projeto)
-* [Camada de apresentação](#camada-de-apresentação)
-* [Camada de domínio](#camada-de-dominio)
-	* [Modelo de domínio simples](#modelo-de-domínio-simples)
-* [Camada de dados](#camada-de-dados)
-	* [Portão de acesso a dados em linha](#portão-de-acesso-a-dados-em-linha)
 	
 	
 #### Especificações das máquinas
@@ -46,15 +31,30 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 
 - src
 	- dados
-		- exception
 	- dominio
 		- exception
 	- testes
 	- mockObjets
 
-#### Camada de apresentacao
+#### DSS
 
-#### Camada de dominio
+##### DSS Criar Gestor
 
-#### Camada de dados
+![CriarGestor](https://user-images.githubusercontent.com/9852787/60671543-afc16880-9e49-11e9-92b1-c4b7e5939574.jpg)
+
+##### DSS Criar Museu
+
+![CriarMuseu](https://user-images.githubusercontent.com/9852787/60671544-b059ff00-9e49-11e9-9d0d-c273a69c572c.jpg)
+
+##### DSS Criar Usuario
+
+![CriarUsuario2](https://user-images.githubusercontent.com/9852787/60671545-b059ff00-9e49-11e9-9150-2c927d5a6f23.jpg)
+
+##### DSS Solicitar Criacao Museu
+![SolicitarCriacaoMuseu](https://user-images.githubusercontent.com/9852787/60671546-b059ff00-9e49-11e9-8f20-065476f4cc38.jpg)
+
+#### Diagrama de classes
+
+![ClassesFinal](https://user-images.githubusercontent.com/9852787/60671542-afc16880-9e49-11e9-8aad-f97641d17abb.jpg)
+
 
