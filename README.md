@@ -11,7 +11,7 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 #### Especificações das máquinas
 
 - [x] Linux Mint 18.3 Cinnamon 64-bit
-- [ ] Linux Ubuntu ??? 64 bit
+- [ ] Linux Ubuntu 16.04 64 bit
 
 #### Ferramentas
 
@@ -36,7 +36,7 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 	- testes
 	- mockObjets
 
-#### DSS
+#### DSS's
 
 ##### DSS Criar Gestor
 
