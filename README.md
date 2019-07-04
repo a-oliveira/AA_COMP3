@@ -38,7 +38,9 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 	- mockObjets
 	- util
 
-#### DSS's
+#### DSS's 
+
+(Clique na imagem para dar zoom)
 
 ##### DSS Criar Gestor
 
@@ -56,6 +58,8 @@ Este repositório se destina a Atividade Acadêmica de Computação III da UFRRJ
 ![SolicitarCriacaoMuseu](https://user-images.githubusercontent.com/9852787/60671546-b059ff00-9e49-11e9-8f20-065476f4cc38.jpg)
 
 #### Diagrama de classes
+
+(Clique na imagem para dar zoom)
 
 ![ClassesFinal](https://user-images.githubusercontent.com/9852787/60671542-afc16880-9e49-11e9-8aad-f97641d17abb.jpg)
 
