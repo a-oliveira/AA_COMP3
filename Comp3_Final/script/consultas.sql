@@ -1,1 +1,1 @@
-select * from MUSEUESQUEMA.USUARIO
+select * from MUSEUESQUEMA.USUARIO;

@@ -42,15 +42,6 @@ create table museuEsquema.solicitacao
 	primary key (nome, dataCriacao)
 );
 
-create table museuEsquema.preservacao
-(
-	cpf char(11) not null,
-	dataCriacao char(11) not null,
-	primary key (nome, dataCriacao),
-	foreign key (cpf) references museuEsquema.usuario(cpf),
-	foreign key (dataCriacao) references museuEsquema.acervo(dataCriacao)
-);
-
 create table museuEsquema.exposicao
 (
    nome varchar(30) not null,
